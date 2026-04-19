@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Krishna Jaiswal
 
-<!--
-**KRISHNAJAISWAL04/KRISHNAJAISWAL04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Aspiring Web Developer  
+🌱 Currently learning Open Source & Full Stack Development  
+🚀 Goal: Become a Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Python (Basic)
+
+---
+
+## 📚 Currently Learning
+- Open Source Contribution
+- React
+- Backend Development
+
+---
+
+## 📌 Projects
+🔹 Expense Tracker (Streamlit + SQLite)  
+🔹 Portfolio Website (Coming Soon)
+
+---
+
+## 📫 Connect With Me
+ - Email: krishnajaiswal0984@gmail.com
+---
+
+⭐️ From [KrishnaJaiswal04](https://github.com/KRISHNAJAISWAL04)
