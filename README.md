@@ -1,36 +1,18 @@
-# Hi 👋 I'm Krishna Jaiswal
+# 💫 About Me:
+# Hi 👋 I'm Krishna Jaiswal<br><br>🎓 B.Tech Student  <br>💻 Aspiring Web Developer  <br>🌱 Currently learning Open Source & Full Stack Development  <br>🚀 Goal: Become a Software Developer<br><br>---<br><br>## 🛠️ Skills<br>- HTML<br>- CSS<br>- JavaScript<br>- Git & GitHub<br>- Python (Basic)<br><br>---<br><br>## 📚 Currently Learning<br>- Open Source Contribution<br>- React<br>- Backend Development<br><br>---<br><br>## 📌 Projects<br>🔹 Expense Tracker (Streamlit + SQLite)  <br>🔹 Portfolio Website (Coming Soon)<br><br>---<br><br>## 📫 Connect With Me<br> - Email: krishnajaiswal0984@gmail.com<br>---<br><br>⭐️ From [KrishnaJaiswal04](https://github.com/KRISHNAJAISWAL04)<br>
 
-🎓 B.Tech Student  
-💻 Aspiring Web Developer  
-🌱 Currently learning Open Source & Full Stack Development  
-🚀 Goal: Become a Software Developer
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krishnajaiswal0984/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krishna-jaiswal-b75411336) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishna Jaiswal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnajaiswal0984@gmail.com) 
 
-## 🛠️ Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
-- Python (Basic)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KRISHNA JAISWAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KRISHNA JAISWAL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KRISHNA JAISWAL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=KRISHNA JAISWAL&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Currently Learning
-- Open Source Contribution
-- React
-- Backend Development
-
----
-
-## 📌 Projects
-🔹 Expense Tracker (Streamlit + SQLite)  
-🔹 Portfolio Website (Coming Soon)
-
----
-
-## 📫 Connect With Me
- - Email: krishnajaiswal0984@gmail.com
----
-
-⭐️ From [KrishnaJaiswal04](https://github.com/KRISHNAJAISWAL04)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
