@@ -91,7 +91,7 @@ To become a strong DevSecOps Engineer capable of building secure, scalable, and 
 ## 📫 Connect With Me
 
 📧 Email: [krishnajaiswal0984@gmail.com](mailto:krishnajaiswal0984@gmail.com)
-💼 LinkedIn: linkedin.com/in/krishna-jaiswal-b75411336
+💼 LinkedIn: [linkedin.com/in/krishna-jaiswal-b75411336]
 
 ---
 
