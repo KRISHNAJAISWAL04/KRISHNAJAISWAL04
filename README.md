@@ -1,139 +1,184 @@
-# ⚡ Krishna Jaiswal
+<div align="center">
 
-```yaml
-Name: Krishna Jaiswal
-Role: Computer Science Undergraduate
-Focus: Cloud Infrastructure | DevOps | Platform Engineering | Security
-Location: India
+# Krishna Jaiswal
+
+```text
+Cloud • Platform Engineering • Infrastructure as Code • DevSecOps
 ```
 
-## /about
+*"Automating infrastructure, optimizing deployment pipelines, and engineering resilient systems."*
 
-I enjoy working at the infrastructure layer where software, cloud platforms, and automation intersect.
+[LinkedIn](https://www.linkedin.com/in/krishna-jaiswal-b75411336/) •
+Email: krishnajaiswal0984@gmail.com
 
-My current work revolves around infrastructure provisioning, containerized workloads, CI/CD automation, Linux-based environments, and secure deployment pipelines. Alongside platform engineering, I actively explore offensive security concepts to better understand how resilient systems are designed.
-
-Most of my projects focus on replacing repetitive operational tasks with reproducible infrastructure and automation.
-
----
-
-## Current Engineering Interests
-
-- Infrastructure as Code
-- Cloud Native Systems
-- Container Orchestration
-- CI/CD Pipeline Engineering
-- Linux Internals
-- Platform Automation
-- DevSecOps
-- AI-assisted Infrastructure
+</div>
 
 ---
 
-## Technology Landscape
+## whoami
+
+```yaml
+name: Krishna Jaiswal
+
+role:
+  - Infrastructure Engineer
+  - Platform Engineering Enthusiast
+  - Cloud Native Builder
+
+interests:
+  - Distributed Systems
+  - Infrastructure Automation
+  - Secure Software Delivery
+  - Cloud Architecture
+  - AI-assisted Operations
+
+currently:
+  building:
+    - Cloud Automation
+    - Deployment Pipelines
+    - Platform Tooling
+
+learning:
+    - Kubernetes
+    - Observability
+    - DevSecOps
+```
+
+---
+
+# engineering_domains
+
+```text
+IaC
+Container Runtime
+Cloud Compute
+Linux Userspace
+Platform Engineering
+Service Orchestration
+CI/CD Automation
+Infrastructure Security
+Workflow Automation
+Cloud Native Applications
+```
+
+---
+
+# technology_surface
 
 ### Languages
 
-- Python
-- C++
-- Bash
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,js"/>
+</p>
 
 ### Infrastructure
 
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Linux
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,githubactions"/>
+</p>
 
 ### Security
 
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Nmap
+<p>
+<img src="https://skillicons.dev/icons?i=kali"/>
+</p>
 
-### Development
-
-- FastAPI
-- Streamlit
-- PostgreSQL
-- MySQL
-- SQLite
-- Supabase
-- OpenCV
+Burp Suite • Wireshark • Nmap
 
 ---
 
-## Engineering Projects
+# current_workloads
 
-### Infrastructure & DevOps
-
-- Automated AWS Infrastructure using Terraform
-- Containerized FastAPI Deployments
-- GitHub Actions CI/CD Workflows
-- Multi-node Configuration Management with Ansible
-- Dockerized Backend Services
-
-### AI Systems
-
-- Semantic Resume Screening
-- AI-powered Cost Optimization Platform
-- ML-based Financial Forecasting
-
-### Security
-
-- Network Enumeration Toolkit
-- Security Automation Scripts
-- Linux Hardening Experiments
-
----
-
-## Current Research
-
-```text
-Cloud Infrastructure
-██████████████████░░
-
-Terraform
-█████████████████░░░
-
-Docker
-███████████████████░
-
-Kubernetes
-███████████░░░░░░░░░
-
-Platform Engineering
-██████████████░░░░░░
-
-DevSecOps
-██████████░░░░░░░░░░
+```
+✓ Infrastructure Provisioning
+✓ Container Image Engineering
+✓ CI Pipeline Design
+✓ Linux Environment Automation
+✓ Cloud Resource Orchestration
+✓ AI-assisted Cost Optimization
+✓ Secure Deployment Workflows
 ```
 
 ---
 
-## Philosophy
+# active_projects
 
-> Infrastructure should be reproducible.
->
-> Deployments should be automated.
->
-> Security should be integrated—not appended.
+```
+CostPilot
+└── Autonomous Cloud Cost Optimization Platform
+
+Terraform Infrastructure
+└── AWS Provisioning + Docker Deployment
+
+DevOps Control Center
+└── Infrastructure Automation Toolkit
+
+Semantic Resume Intelligence
+└── Vector Search + NLP Ranking
+
+Financial Forecast Engine
+└── Deep Learning Time Series Pipeline
+```
 
 ---
 
-## Connect
+# architecture_interests
 
-Email:
-krishnajaiswal0984@gmail.com
+```
+Developer
 
-LinkedIn:
-linkedin.com/in/krishna-jaiswal-b75411336
+      │
+      ▼
+
+ Git Push
+      │
+      ▼
+
+ GitHub Actions
+      │
+      ▼
+
+ Container Build
+      │
+      ▼
+
+ Image Registry
+      │
+      ▼
+
+ Infrastructure Provisioning
+      │
+      ▼
+
+ Container Runtime
+      │
+      ▼
+
+ Monitoring
+```
 
 ---
 
-``Infrastructure over Configuration.``
+# principles
+
+```text
+Immutable Infrastructure
+
+Automation > Manual Operations
+
+Security by Design
+
+Everything as Code
+
+Continuous Delivery
+
+Reproducibility
+```
+
+---
+
+<div align="center">
+
+### "Design systems that require fewer manual decisions."
+
+</div>
