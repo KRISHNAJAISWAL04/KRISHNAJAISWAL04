@@ -1,129 +1,139 @@
- 💫 About Me:
+# ⚡ Krishna Jaiswal
 
-Hi 👋 I'm Krishna Jaiswal
+```yaml
+Name: Krishna Jaiswal
+Role: Computer Science Undergraduate
+Focus: Cloud Infrastructure | DevOps | Platform Engineering | Security
+Location: India
+```
 
-🎓 B.Tech Computer Science Student
-☁️ Aspiring Cloud Engineer
-⚙️ DevOps Learner
-🔐 Cybersecurity Enthusiast
-🤖 Building AI & Automation Projects
+## /about
 
-I am passionate about building scalable systems, automating workflows, and understanding how secure infrastructure works.
-Currently focused on Cloud Computing, DevOps, Linux, and Security while building real-world projects.
+I enjoy working at the infrastructure layer where software, cloud platforms, and automation intersect.
 
----
+My current work revolves around infrastructure provisioning, containerized workloads, CI/CD automation, Linux-based environments, and secure deployment pipelines. Alongside platform engineering, I actively explore offensive security concepts to better understand how resilient systems are designed.
 
-## 🚀 Current Focus
-
-* Cloud Computing (AWS)
-* DevOps (Docker, Kubernetes, CI/CD)
-* Linux & System Administration
-* Cybersecurity Fundamentals
-* Python Automation
-* AI-powered Applications
+Most of my projects focus on replacing repetitive operational tasks with reproducible infrastructure and automation.
 
 ---
 
-## 🛠 Tech Stack
+## Current Engineering Interests
+
+- Infrastructure as Code
+- Cloud Native Systems
+- Container Orchestration
+- CI/CD Pipeline Engineering
+- Linux Internals
+- Platform Automation
+- DevSecOps
+- AI-assisted Infrastructure
+
+---
+
+## Technology Landscape
 
 ### Languages
 
-* Python
-* C++
-* JavaScript
-* Bash
-* SQL
+- Python
+- C++
+- Bash
+- JavaScript
+- SQL
 
-### Cloud & DevOps
+### Infrastructure
 
-* AWS (Learning)
-* Docker
-* Kubernetes (Learning)
-* GitHub Actions
-* Linux
-* Terraform (Learning)
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Linux
 
-### Cybersecurity
+### Security
 
-* Kali Linux
-* Nmap
-* Wireshark
-* Burp Suite
-* Network Security Basics
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
 
 ### Development
 
-* Streamlit
-* SQLite
-* MySQL
-* Supabase
-* OpenCV
+- FastAPI
+- Streamlit
+- PostgreSQL
+- MySQL
+- SQLite
+- Supabase
+- OpenCV
 
 ---
 
-## 📌 Projects
+## Engineering Projects
 
-🔹 AI Resume Screener (Semantic Search + NLP)
-🔹 Expense Tracker (Streamlit + SQLite)
-🔹 Python Automation Scripts
-🔹 Cloud Deployment Projects (Coming Soon)
-🔹 Security Tools (Coming Soon)
+### Infrastructure & DevOps
 
----
+- Automated AWS Infrastructure using Terraform
+- Containerized FastAPI Deployments
+- GitHub Actions CI/CD Workflows
+- Multi-node Configuration Management with Ansible
+- Dockerized Backend Services
 
-## 📚 Currently Learning
+### AI Systems
 
-* AWS Cloud
-* Docker & Containerization
-* CI/CD Pipelines
-* Linux Administration
-* Network Security
-* DevSecOps Fundamentals
+- Semantic Resume Screening
+- AI-powered Cost Optimization Platform
+- ML-based Financial Forecasting
 
----
+### Security
 
-## 🎯 Goal
-
-To become a strong DevSecOps Engineer capable of building secure, scalable, and automated systems.
+- Network Enumeration Toolkit
+- Security Automation Scripts
+- Linux Hardening Experiments
 
 ---
 
-## 📫 Connect With Me
+## Current Research
 
-📧 Email: [krishnajaiswal0984@gmail.com](mailto:krishnajaiswal0984@gmail.com)
-💼 LinkedIn: [linkedin.com/in/krishna-jaiswal-b75411336]
+```text
+Cloud Infrastructure
+██████████████████░░
+
+Terraform
+█████████████████░░░
+
+Docker
+███████████████████░
+
+Kubernetes
+███████████░░░░░░░░░
+
+Platform Engineering
+██████████████░░░░░░
+
+DevSecOps
+██████████░░░░░░░░░░
+```
 
 ---
 
-⭐ Building. Learning. Improving every day.
+## Philosophy
 
-## 💻 Tech Stack
+> Infrastructure should be reproducible.
+>
+> Deployments should be automated.
+>
+> Security should be integrated—not appended.
 
-### 🚀 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Connect
 
-### 🔐 Cybersecurity  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+Email:
+krishnajaiswal0984@gmail.com
 
-### 🤖 AI & Development  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+LinkedIn:
+linkedin.com/in/krishna-jaiswal-b75411336
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+---
+
+``Infrastructure over Configuration.``
