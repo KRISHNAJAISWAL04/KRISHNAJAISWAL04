@@ -15,7 +15,7 @@ Email: krishnajaiswal0984@gmail.com
 
 ---
 
-## whoami
+## $ whoami
 
 ```yaml
 name: Krishna Jaiswal
